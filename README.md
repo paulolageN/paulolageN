@@ -23,7 +23,7 @@
 
 ###
 
-![GitHub stats](https://vercel.com/paulolageN-projects/github-readme-stats)
+![GitHub stats](github-readme-stats-d98aatcf7-paulolagens-projects.vercel.app)
 
 ###
 
