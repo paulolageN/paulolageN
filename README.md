@@ -23,7 +23,7 @@
 
 ###
 
-![GitHub stats](github-readme-stats-sigma-ochre-78.vercel.app)
+![GitHub stats](github-readme-stats-paulolagens-projects.vercel.app)
 
 ###
 
