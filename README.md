@@ -23,5 +23,6 @@
 
 ###
 
+- Sistem: Fedora linux
 
 ###
